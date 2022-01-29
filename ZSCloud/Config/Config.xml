@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<appSettings>
+	<add key="Host" value="mail.zsicon.com" />
+	<add key="Port" value="25" />
+	<add key="EnableSSL" value="false" />
+	<add key="UseDefaultCredential" value="false" />
+	<add key="UserName" value="Support@zsicon.com" />
+	<add key="Password" value="sup238170825636@A" />
+	<add key="MailFrom" value="Support@zsicon.com" />
+</appSettings>
